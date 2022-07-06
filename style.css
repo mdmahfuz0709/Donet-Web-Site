@@ -81,6 +81,7 @@ body {
     text-align: center;
     padding: 10px 5px;
     margin-top: 35px;
+    outline: none;
 }
 
 .taka-color {
@@ -194,4 +195,56 @@ body {
 .qurbani-item-width a {
     text-decoration: none;
     color: red;
+}
+
+
+
+
+
+.subscribe-area {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+.subscribe-area h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.subscribe-area p {
+    font-size: 15px;
+    width: 55%;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.subscribe-input-area {
+    background-color: blanchedalmond;
+    width: 60%;
+    margin: 0 auto;
+    padding: 65px;
+    margin-top: 20px;
+}
+
+#email {
+    padding: 15px 40px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    background-color: lightgray;
+    color: gray;
+    font-weight: bold;
+    outline: none;
+}
+
+#button {
+    padding: 15px 40px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    color: white;
+    background-color: red;
+    margin-left: -4px;
 }
