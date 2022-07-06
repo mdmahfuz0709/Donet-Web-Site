@@ -30,13 +30,60 @@ body {
     margin: 0 auto;
 }
 
-.header-area a {
+.donet-button {
     text-decoration: none;
-    padding: 15px 20px;
+    padding: 15px 18px;
     background-color: red;
     color: white;
     font-weight: bold;
     border-radius: 5px;
     display: inline-block;
     margin-top: 30px;
+}
+
+.donate-day-area {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    padding: 65px 0;
+}
+
+.donet-text-area h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.donet-text-area p {
+    font-size: 15px;
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.donet-text-area ul li {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 30px 20px;
+    margin: 0px 10px;
+}
+
+.donet-text-area input {
+    border: none;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 5px;
+    margin-top: 35px;
+}
+
+.taka-color {
+    border: 2px solid red;
+    color: red;
+    display: inline-block;
+    background-color: LAVENDER;
+    border-radius: 5px;
 }
