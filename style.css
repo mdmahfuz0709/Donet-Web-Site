@@ -65,6 +65,7 @@ body {
     margin: 0 auto;
     padding-top: 10px;
     padding-bottom: 30px;
+    color: gray;
 }
 
 .donate-text-area ul {
@@ -83,12 +84,12 @@ body {
 
 .donate-text-area input {
     border: none;
-    font-weight: 700;
     font-size: 15px;
     text-align: center;
     padding: 10px 5px;
     margin-top: 35px;
     outline: none;
+    letter-spacing: 1px;
 }
 
 .taka-color {
@@ -123,6 +124,7 @@ body {
     margin: 0 auto;
     padding-top: 10px;
     padding-bottom: 30px;
+    color: gray;
 }
 
 .donate-plan-item {
@@ -136,6 +138,10 @@ body {
     margin: 0 10px;
     text-align: left;
     border-radius: 5px;
+}
+
+.donate-plan-item-width p {
+    color: gray;
 }
 
 #item-width-one {
@@ -174,6 +180,7 @@ body {
     margin: 0 auto;
     padding-top: 10px;
     padding-bottom: 30px;
+    color: gray;
 }
 
 .donate-qurbani-item-area {
@@ -184,9 +191,13 @@ body {
 .qurbani-item-width {
     width: 33%;
     margin: 0 20px;
-    padding: 40px 30px 10px;
+    padding: 40px 30px 30px;
     box-shadow: 5px 5px 40px pink;
     border-radius: 5px;
+}
+
+.qurbani-item-width p {
+    color: gray;
 }
 
 .qurbani-item-width img {
@@ -231,6 +242,7 @@ body {
     margin: 0 auto;
     padding-top: 10px;
     padding-bottom: 30px;
+    color: gray;
 }
 
 .subscribe-input-area {
