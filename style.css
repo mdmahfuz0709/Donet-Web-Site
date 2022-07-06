@@ -1,0 +1,42 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.header-area {
+    padding: 60px;
+    background-size: cover;
+    height: 500px;
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.header-text-area {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.header-text-area h1 {
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+.header-text-area p {
+    font-size: 15px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.header-area a {
+    text-decoration: none;
+    padding: 15px 20px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 30px;
+}
