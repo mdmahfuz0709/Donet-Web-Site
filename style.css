@@ -30,7 +30,7 @@ body {
     margin: 0 auto;
 }
 
-.donet-button {
+.donate-button {
     text-decoration: none;
     padding: 15px 18px;
     background-color: red;
@@ -51,13 +51,13 @@ body {
     padding: 65px 0;
 }
 
-.donet-text-area h1 {
+.donate-text-area h1 {
     font-size: 40px;
     margin-bottom: 10px;
     font-weight: 700;
 }
 
-.donet-text-area p {
+.donate-text-area p {
     font-size: 15px;
     width: 55%;
     margin: 0 auto;
@@ -65,7 +65,7 @@ body {
     padding-bottom: 30px;
 }
 
-.donet-text-area ul li {
+.donate-text-area ul li {
     list-style-type: none;
     display: inline-block;
     font-size: 25px;
@@ -74,7 +74,7 @@ body {
     margin: 0px 10px;
 }
 
-.donet-text-area input {
+.donate-text-area input {
     border: none;
     font-weight: 700;
     font-size: 15px;
@@ -101,13 +101,13 @@ body {
     padding-bottom: 40px;
 }
 
-.donet-plan-text-area h1 {
+.donate-plan-text-area h1 {
     font-size: 40px;
     margin-bottom: 10px;
     font-weight: 700;
 }
 
-.donet-plan-text-area p {
+.donate-plan-text-area p {
     font-size: 15px;
     width: 55%;
     margin: 0 auto;
@@ -138,4 +138,60 @@ body {
 
 #item-width-three {
     background-color: blanchedalmond;
+}
+
+
+
+
+
+.donate-qurbani-area {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+.donate-qurbani-text-area h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.donate-qurbani-text-area p {
+    font-size: 15px;
+    width: 55%;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.donate-qurbani-item-area {
+    display: flex;
+    margin-top: 20px;
+}
+
+.qurbani-item-width {
+    width: 33%;
+    margin: 0 20px;
+    padding: 40px 30px 10px;
+    box-shadow: 5px 5px 40px pink;
+    border-radius: 5px;
+}
+
+.qurbani-item-width img {
+    width: 33%;
+}
+
+.qurbani-item-width ul {
+    text-align: center;
+    padding: inherit;
+}
+
+.qurbani-item-width ul li {
+    list-style-type: none;
+}
+
+.qurbani-item-width a {
+    text-decoration: none;
+    color: red;
 }
